@@ -1,0 +1,8 @@
+package in.Rushikesh.client;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+
+@FeignClient(name="WELCOME-API")
+public interface WelcomeApiClient {
+
+}

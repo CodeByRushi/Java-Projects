@@ -1,0 +1,20 @@
+package in.rushikesh.rest;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class BookRestController {
+
+	@GetMapping("/book")
+	public String doAction() {
+		String msg = "Action in progress";
+		try {
+			int i = 10 / 0;
+		} catch (Exception e) {
+			logger.error("Exception Occured ::" + e, e);
+			throw new ArithmeticException(e.getMessage());
+		}
+		return msg;
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<personName>Rushikesh</personName>
+	<personAge>46</personAge>
+	<address>
+		<houseNo>123</houseNo>
+		<roadNo>78</roadNo>
+	</address>
+</person>

@@ -1,0 +1,18 @@
+package in.Rushikesh.rest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import in.Rushikesh.props.AppProperties;
+
+@RestController
+public class DemoRestController {
+
+	@Autowired
+	private AppProperties props;
+	
+	public String getWelcomeMsg() {
+		
+		
+	}
+}

@@ -1,0 +1,22 @@
+package in.Rushikesh.rest;
+
+import java.util.Date;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import in.Rushikesh.bindings.CustomerEvent;
+import reactor.core.publisher.Mono;
+
+@RestController
+public class CustomerRestController {
+
+	@GetMapping(value = "/event", produces ="application/json")
+	public ResponseEntity<Mono<CustomerEvent>> getEvent(){
+		CustomerEvent evt = new CustomerEvent("Rushikesh", new Date());
+		Mono<CustomerEvent> mono = Mono.just(evt);
+		return new ResponseEntity<Mono<CustomerEvent>>(mono, HttpStatus.OK);
+	}
+}

@@ -1,0 +1,14 @@
+
+spring:
+  main:
+    banner-mode: off
+    
+server:
+  port: 9090
+  
+myApp:
+  Messages:
+    greet : Good Morning!!
+    wish : All the best
+    welcome : welcome to the project
+    

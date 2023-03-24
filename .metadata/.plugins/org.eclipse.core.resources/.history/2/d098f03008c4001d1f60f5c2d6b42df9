@@ -1,0 +1,5 @@
+package in.Rushikesh.client;
+
+public interface WelcomeApiClient {
+
+}

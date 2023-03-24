@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2\Session 35 - Kafka\02-sb-apache-kafka-consumer"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2\Session 35 - Kafka\01-sb-apache-kafka-producer"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\07-MVC-Thymeleaf"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\06.2-MVC-FormValidation"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\06.1-MVC-FormApp1"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\06-MVC-FormApp1"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\05-MVC-Task-ShowBookDetailsOnTable-App"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\05-MVC-SendDataToUI-From-Controller-App"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\02-WebSpringMVC-App"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\01-FirstSpringMVC-App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\33-Circuit-Breaker"/>
+			<item value="C:\Users\Rushikesh\Documents\SBMS - Part 2 - Workspace\11-XML-To-Object-Conversion"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="in.rushikesh"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="14-First-RESTAPI"/>
+			<item value="13-JavaObject-To-JSON-Conversion"/>
+			<item value="11-XML-To-Object-Conversion"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

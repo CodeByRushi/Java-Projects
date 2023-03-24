@@ -1,0 +1,5 @@
+package in.rushikesh.rest;
+
+public class DemoRestController {
+
+}

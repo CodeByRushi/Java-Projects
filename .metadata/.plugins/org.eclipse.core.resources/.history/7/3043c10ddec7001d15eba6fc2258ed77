@@ -1,0 +1,5 @@
+package in.rushikesh.bindings;
+
+public class ExceptionInfo {
+
+}

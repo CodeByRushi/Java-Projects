@@ -1,0 +1,5 @@
+server:
+  port: 9090
+messages:
+  welcome: Welcome to REST APIs Project
+  greet : Good morning
